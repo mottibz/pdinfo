@@ -1,3 +1,3 @@
-<img src="img/AnalyticsTitle2.jpg" align="center" style="height: 256px"/>
+![][img/AnalyticsTitle2.jpg]
 # pdinfo
 Pandas Expanded Information Display
