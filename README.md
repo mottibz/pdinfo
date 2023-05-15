@@ -1,4 +1,4 @@
-![](img/AnalyticsTitle2.jpg)
+<!-- ![](img/AnalyticsTitle2.jpg) -->
 
 <p align="center">
   <img width="460" height="300" src="img/AnalyticsTitle2.jpg">
