@@ -1,7 +1,7 @@
 <!-- ![](img/AnalyticsTitle2.jpg) -->
 
 <p align="center">
-  <img width="460" height="250" src="img/analytics640.jpg">
+  <img width="460" height="250" src="img/PdInfo_logo.png">
 </p>
 
 # pdinfo - Pandas Expanded Information Display
