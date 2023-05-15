@@ -6,5 +6,9 @@
 
 # pdinfo - Pandas Expanded Information Display
 
-Being frustrated by not having one package to analyze a Pandas dataframe as I want, I decided to develop my own. 
-It is inspired by packages like Sidetable and others and includes more functionality and flexibility.
+Being frustrated by not having one package to analyze a Pandas dataframe as I want, and developing the code for that, I decided to publish *pdinfo*. 
+It is inspired by packages like Sidetable and others and includes additional functionality and flexibility.
+
+The first release includes functions to summarize a dataframe with lots of details, outlier detection, graphing, etc. and saving the time for you to develop that.
+
+Following a standard installation, the functions are accessed through a Pandas accessor (.inf).
