@@ -1,3 +1,3 @@
-![](img/analytics640.jpg)
+![](img/AnalyticsTitle.jpg)
 # pdinfo
 Pandas Expanded Information Display
