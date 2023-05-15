@@ -1,7 +1,7 @@
 <!-- ![](img/AnalyticsTitle2.jpg) -->
 
 <p align="center">
-  <img width="460" height="300" src="img/AnalyticsTitle2.jpg">
+  <img width="460" height="250" src="img/AnalyticsTitle2.jpg">
 </p>
 
 # pdinfo
