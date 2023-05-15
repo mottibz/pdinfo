@@ -4,7 +4,7 @@
   <img width="500" height="150" src="img/PdInfo_logo.png">
 </p>
 
-# PdInfo - Pandas Expanded Information Display
+# PdInfo - Pandas Extended Information Analysis
 
 Being frustrated by not having one package to analyze a Pandas dataframe as I want, and developing the code for that, I decided to publish *pdinfo*, to save others time. 
 It is inspired by packages like Sidetable and others and includes additional functionality and flexibility.
