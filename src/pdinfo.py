@@ -22,6 +22,7 @@ sys.path.insert(0, '/Users/motti/Documents/GitHub/DataScience/pdinfo')
 from src.utils import _calc_iqr, _list_unique_values, _get_numeric_columns, _retrieve_var_name
 
 
+
 # Define the class and its accessor
 @pd.api.extensions.register_dataframe_accessor('inf')
 class PandasInfo:
