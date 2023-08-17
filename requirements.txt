@@ -1,7 +1,9 @@
-pandas
-numpy
-seaborn
-matplotlib
-scikit-learn
-
-#-e .
+matplotlib==3.7.1
+numpy==1.24.2
+openpyxl==3.1.2
+pandas==1.5.3
+scikit_learn==1.2.2
+scipy==1.11.1
+seaborn==0.12.2
+setuptools==58.1.0
+tqdm==4.65.0
