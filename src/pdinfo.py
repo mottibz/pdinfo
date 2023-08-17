@@ -530,9 +530,7 @@ class PandasInfo:
             s2.to_excel(writer, sheet_name="info()")
 
         self.__internal_call = False
-
-
-
+        print("Excel file '" + name + "' created successfully.")
 
 
     #===========================  DRAWING FUNCTIONS  ===========================
